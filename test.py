@@ -1,9 +1,9 @@
-print("\033[92m")
 import os
 import urllib2
 import sys
 os.system("pkg install figlet")
 os.system("clear")
+print("\033[92m")
 os.system("figlet WEB INFO")
 print("\033[91m")
 print("Codex by AI-22")
